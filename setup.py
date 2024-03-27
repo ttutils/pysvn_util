@@ -11,7 +11,7 @@ with io.open("requirements.txt", 'r') as f:
 
 setup(
     name='pysvn_util',
-    version='1.0.0',
+    version='1.0.2',
     description='svn助手',
     author='buyfakett',
     author_email='buyfakett@vip.qq.com',
